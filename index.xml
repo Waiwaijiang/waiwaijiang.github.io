@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>My New Hugo Site </title>
-        <link>https://waiwaijiang.github.io/</link>
+        <link>waiwaijiang.github.io/</link>
         <language>en-us</language>
         <author></author>
         <rights>(c) 2020</rights>
@@ -11,10 +11,10 @@
         
             <item>
             <title>Posts</title>
-            <link>https://waiwaijiang.github.io/post/</link>
+            <link>waiwaijiang.github.io/post/</link>
             <pubDate>Tue, 28 Jan 2020 17:56:47 CST</pubDate>
             <author></author>
-            <guid>https://waiwaijiang.github.io/post/</guid>
+            <guid>waiwaijiang.github.io/post/</guid>
             <description></description>
             </item>
         
